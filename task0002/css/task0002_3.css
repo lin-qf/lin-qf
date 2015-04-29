@@ -1,0 +1,32 @@
+body{
+		background: #ccc;
+	}
+	#disp{
+		width: 600px;
+		height: 300px;
+		margin: 100px  auto;
+		overflow: hidden;
+		background: red;
+		position: relative;
+		background: white;
+	}
+	#disp img{
+		width: 600px;
+		height: 300px;
+		float: left;
+	}
+	#pics{
+		position: absolute;
+	}
+	#circles {
+		position: absolute;
+		bottom: 10px;
+		padding: 0 240px;
+	}
+	#circles span{
+		display: inline-block;
+		width: 10px;
+		height: 10px;
+		border-radius: 7px;
+		border: 2px solid white;
+	}

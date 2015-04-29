@@ -1,0 +1,28 @@
+#habbitForm{
+		width: 400px;
+		padding: 10px;
+		box-shadow: 0 0 3px rgb(234,23,34);
+		margin: 100px auto;
+		overflow: hidden;
+	}
+	#habbitForm h3{
+		font-size: 18px;
+		margin:0 0 10px;
+	}
+	#habbit{
+		width: 100%;
+		height: 150px;
+		border: none;
+		box-shadow: 0 0 3px rgb(234,23,34);
+		font-size: 15px;
+		font-family: Arial;
+	}
+	#btn{
+		width: 100%;
+		border:none;
+		height: 30px;
+	}
+	#info{
+		color: red;
+		display: none;
+	}
